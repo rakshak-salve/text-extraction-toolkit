@@ -67,4 +67,20 @@ coverage.xml
 .pyre/
 
 # VS Code
-.vscode/ 
+.vscode/
+
+# Python virtual environment
+venv/
+.env/
+
+# Python bytecode files
+__pycache__/
+*.pyc
+
+# Generated output files
+output/
+*.log
+
+# Operating System files
+.DS_Store # macOS
+Thumbs.db # Windows 
