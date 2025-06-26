@@ -25,4 +25,4 @@ Extract text from images using OCR and deep learning. Use the web app or batch p
 - **Tesseract not found?** Install it and add to PATH (see code comments).
 
 ---
-Developed by [Your Name].
+Developed by Rakshak Salve.
